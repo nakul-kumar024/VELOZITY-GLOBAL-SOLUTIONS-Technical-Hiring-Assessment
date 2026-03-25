@@ -2,8 +2,8 @@
 
 A feature-rich **Task Management Dashboard** built with **React + TypeScript**, showcasing advanced frontend engineering concepts such as custom drag-and-drop, virtual scrolling, URL-synced filtering, and timeline visualization.
 
-- **Live Demo**: _[Add your Vercel / Netlify link here]_  
-- **Repository**: _[Add your GitHub / GitLab link here]_
+- **Live Demo**: _[https://velozity-global-solutions-technical.vercel.app/]_  
+- **Repository**: _[https://github.com/nakul-kumar024/VELOZITY-GLOBAL-SOLUTIONS-Technical-Hiring-Assessment]_
 
 ---
 
